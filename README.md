@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ayush-Kumar
+- 👀 I’m interested in web development and competetive programming.
+- 🌱 I’m currently learning HTMl,CSS, JavaScript and C++.
+- 💞️ I’m looking to collaborate on OpenSource Projects likeceph,MariaDB,Mozillaand Teamamates@NationalUniversity of singapore. 
+- 📫 You can contact me on my email id: itsayushkumar123@gmail.com or DM me on my insta page ayush.kumar1802.
